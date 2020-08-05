@@ -2,4 +2,4 @@ spring:
   cloud:
     stream:
       bindings:
-        saludos-out:employees
+        output: employees
