@@ -3,4 +3,4 @@ spring:
     stream:
       bindings:
         output: 
-        destination: employees
+          destination: employees
