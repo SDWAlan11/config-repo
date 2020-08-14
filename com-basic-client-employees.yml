@@ -2,4 +2,5 @@ spring:
   cloud:
     stream:
       bindings:
-        output:  employees
+        output: 
+          destination: employees
